@@ -1,0 +1,23 @@
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.welcome-bar {
+    background: #007bff;
+    padding: 20px;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+    color: white;
+    margin: 0;
+    border: none;
+}
+
+.carousel {
+    max-width: 800px;
+    margin: 5px auto;
+}
